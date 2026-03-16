@@ -24,7 +24,7 @@ Customer segmentation and purchase pattern analysis
 - **Tech:** Python, Jupyter, statistical analysis
 
 ###  Let's Connect
-- 💼 [LinkedIn]((https://www.linkedin.com/in/pragna-bairu-9bba601a5/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pragna-bairu-9bba601a5/)
 - 📧 pragnabairu130@gmail.com
 
 
